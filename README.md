@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ohshie)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **ohshie/ohshie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
